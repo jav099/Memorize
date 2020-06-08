@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "c3e77f5a53d3b23c11cb12965280db80"
+build_time: [1591205720, 513170000]
+inputs:
+  "/Users/javiercontreras/Desktop/Swift/Memorize/Memorize/AppDelegate.swift": [1590596676, 342081018]
+  "/Users/javiercontreras/Desktop/Swift/Memorize/Memorize/SceneDelegate.swift": [1591200723, 953270678]
+  "/Users/javiercontreras/Desktop/Swift/Memorize/Memorize/EmojiMemoryGameView.swift": [1591205720, 428703111]
+  "/Users/javiercontreras/Desktop/Swift/Memorize/MemoryGame.swift": [1591202307, 363013931]
+  "/Users/javiercontreras/Desktop/Swift/Memorize/Memorize/EmojiMemoryGame.swift": [1591202307, 330081210]
